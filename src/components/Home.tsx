@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Albums } from "../types";
+import { Albums } from "../types/types";
 
 type Props = {
     albums: Albums[]

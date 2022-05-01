@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { Photos } from "../types";
+import { Photos } from "../types/types";
 import "./album.scss"
 
 type Props = {

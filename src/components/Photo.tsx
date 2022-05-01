@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom"
-import { Photos } from "../types"
+import { Photos } from "../types/types"
 
 type Props = {
     photos: Photos[]
